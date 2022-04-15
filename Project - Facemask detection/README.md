@@ -1,6 +1,6 @@
 # COMP6721ProjectAK_07
 
-Model and Dataset Link (Private):
+Dataset Link (Private):
 
 https://drive.google.com/drive/folders/1dTuBW1wRhGA4crraPhGil0K3eJ0m9A5y?usp=sharing
 
